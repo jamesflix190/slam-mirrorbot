@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telrent",
+  "private_key_id": "9995e78d2186970cd01878ffbb998ccbf7b72848",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCn6KwHHAIgqJeq\nP7Dw1GMyIyvEpsWzqFBzuRlDub+IzleaZGehW36XGKlfcpaco/SMULMIslL/oLPd\nY6KN/pVQzwsrleAX2O2yvzYwj73WRT/4A8kC++sZHAPpQnESrZ3nVweWBY8oFmLU\njDiSKnFDb5otvWeqHSc6i2Hpd0b0WlNzF53Bnurl+QLwyxdNBamc7rQaOszNvri8\nJYsvoUI2FW00ZYabdhf26TMIpizO1ezWo3f7KSGKjhBZk6ebFqu4d56JLaFAm27z\n6FbnNLn4fjyNz+46G4xC0nUfaXe065UREDAAUQvnt/0evG5o9C+f2Pok96NI7h5b\nQiHAaUJ/AgMBAAECggEATmzwMM/ltIBaepQOHqZtAKWJ02u76uqiTTL2+HmhWxJZ\nu4zLFIRKL+O+dIzuiRJRblphDR5RgwF6EV1wtxbigiB6jKyPw0O43mTOOEdjOVoW\nA08tS74DtLIvp3s3mixKlRvCuNE26Nfv6GvoHmlBhuhxII0Xhs7gHEmu/V+PXiCw\n89qpNOS5TrIzWaxGcBbKOgDzDdYO8wkigZAZ7G/zJm9hmD/+VulkVOI2UFEm0YVD\naUPr4YOk7TY9hNdssqQyD3AoIvZsSmqMHW8hxQGDtwng9Dm+obkAf6zTtrZSKxOK\nxmvIEJ54xv4ys05/biiu+/W99p9FpjXem2+nBVH9LQKBgQDs5xFUUR9JthWK2WY0\nM+2HNx50Y/+ATPFOCpver0btNidohDtLjs2uqnXtLlHZ4I5K2Kjp7bc0yl1/FHqA\nCOcfLaZ32ocs89KOhAW89b4/cNqDO+kbA/s2/7foWcV7J8VhZjuxIpvoe4I1RajJ\n5L0YgpR7UZAqCPHMo+0HxaRkLQKBgQC1ccnWap/AM9PYq4Z0sXCHuAroUIn/cK6G\n828s4jgsCs00jKADIl7uQw7gODGD8hry9rzWfYxuqj5Rl54smdWwg+P3sWJsFI+E\nkFtwTl/9ALdW9+740QtG6NRHjdy/iOQAG9yVNYH6SwVqPC2maM7nvXdCpVAc9FYu\nxbo3Z8/Q2wKBgQDTDaCgr4ziTHewtbGZ/FE2z2Iwaw4rLWElF8p5f0n+9unw8S0q\nSVTwsShSX5vIMYhTIeaKUZ+QRmE5X/MqscPGQRM3X9Zhs+73zKKYD46oUlA57lvk\nF43tF7CuLZwD9hCgj0XKr3yah74e26peA4x7k4nYu3dmG4XfvILlE607GQKBgQCx\nfEQufJAV59yjRm24ulVUPSBWTWoft67RDVFD+2ltE4fVjnV7e2SW9nuXswAkjG/2\nGItx2M/E9L0O/RvZjwVrrCgUA60+AgK9bqQzQEc+6jNtXAuj0oCQdXIpKEi2BwbY\nYGiuf+/L0RTT7VfOPxmdsET3qVOrbwrap8nXJrIvHwKBgQCx4pfM0U/M/TxutY5M\ngH2YDqqLzBS4nQZPnrI4+h1UrdiegSPPZtd/ZYDh8F9O9pHqzd0sch/v437HGRTJ\nHOFCGbQLpcRpMgmYG+zLdAYBbm5+IJVN2pM/MCHITFWZtZoZ6QpQkN5gjUPq2Q1S\nXzdPdUDR6aOTiJJmH0EM381eaA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-w6uv4vlxd6x457q-grn299iani@telrent.iam.gserviceaccount.com",
+  "client_id": "112778502235580649986",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-w6uv4vlxd6x457q-grn299iani%40telrent.iam.gserviceaccount.com"
+}
